@@ -15,22 +15,22 @@ bin/magento module:enable EnjoyDevelop_ResetImageRoles && bin/magento setup:upgr
 
 
 ### Usage
-#### Set the small_image role to the same image as used for Base Image Role
+#### Set the small_image role to the same images as used for Base Image Role
 ```shell
 bin/magento catalog:image-roles:reset small_image
 ```
 
-#### Set the small_image, thumbnail, swatch_image roles to the same image as used for Base Image Role
+#### Set the small_image, thumbnail, swatch_image roles to the same images as used for Base Image Role
 ```shell
 bin/magento catalog:image-roles:reset small_image,thumbnail,swatch_image
 ```
 
-#### Set the custom_role_attribute_code role to the same image as used for Base Image Role
+#### Set the custom_role_attribute_code role to the same images as used for Base Image Role
 ```shell
 bin/magento catalog:image-roles:reset custom_role_attribute_code
 ```
 
-#### Set the custom_role_attribute_id role to the same image as used for Base Image Role
+#### Set the custom_role_attribute_id role to the same images as used for Base Image Role
 ```shell
 bin/magento catalog:image-roles:reset custom_role_attribute_id
 ```
