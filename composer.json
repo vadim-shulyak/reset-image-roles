@@ -1,0 +1,30 @@
+{
+    "name": "enjoydevelop/magento2-module-reset-image-roles",
+    "description": "Magento 2 module to reset image roles by direct SQL queries",
+    "type": "magento2-module",
+    "license": "NONE",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Vadym Shuliak",
+            "email": "vadim.shulyak.1992@gmail.com",
+            "homepage": "https://enjoydevelop.com"
+        }
+    ],
+    "require": {
+        "php": "~8.1.0||~8.2.0",
+        "magento/framework": "103.0.*"
+    },
+    "keywords": [
+        "Magento 2",
+        "Magento 2 Image Role"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "EnjoyDevelop\\ResetImageRoles\\": ""
+        }
+    }
+}
