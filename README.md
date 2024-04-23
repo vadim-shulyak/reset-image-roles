@@ -34,3 +34,12 @@ bin/magento catalog:image-roles:reset custom_role_attribute_code
 ```shell
 bin/magento catalog:image-roles:reset custom_role_attribute_id
 ```
+
+
+![image](https://github.com/vadim-shulyak/reset-image-roles/assets/9142847/21faf414-4019-4242-b5b4-aaea1358f0d8)
+
+
+![image](https://github.com/vadim-shulyak/reset-image-roles/assets/9142847/68c123f1-4388-44fb-9c1e-227f729686cc)
+
+![image](https://github.com/vadim-shulyak/reset-image-roles/assets/9142847/6607f2c3-80b1-4c5d-81e9-b389a0153223)
+
